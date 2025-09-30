@@ -1,10 +1,10 @@
 Game.addToManifest({
-	blackout: "sprites/quote/quote0001.png",
-	quote0002: "sprites/quote/quote0002.png",
-	quote0003: "sprites/quote/quote0003.png",
-	quote0004: "sprites/quote/quote0004.png",
+	blackout: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/quote/quote0001.png",
+	quote0002: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/quote/quote0002.png",
+	quote0003: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/quote/quote0003.png",
+	quote0004: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/quote/quote0004.png",
 
-	bg_park: "sounds/bg_park.mp3"
+	bg_park: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/bg_park.mp3"
 });
 
 function Scene_Quote(){
@@ -85,7 +85,7 @@ function Scene_Quote(){
 			.call(function(){
 				
 				// Background Ambience
-				var ambience = Game.sounds.bg_park;
+				var ambience = Game.sprites.bg_park;
 			   	ambience.loop(true);
 			   	ambience.volume(0);
 			   	ambience.play();
