@@ -1,6 +1,6 @@
 Game.addToManifest({
-    bg_panic: "sounds/bg_panic.mp3",
-    bg_creepy: "sounds/bg_creepy.mp3"
+    bg_panic: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sounds/bg_panic.mp3",
+    bg_creepy: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sounds/bg_creepy.mp3"
 });
 
 /*****************************
