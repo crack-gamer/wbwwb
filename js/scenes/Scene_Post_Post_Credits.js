@@ -1,11 +1,11 @@
 ﻿Game.addToManifest({
 	
-	logo: "sprites/postcredits/logo.png",
+	logo: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/postcredits/logo.png",
 	
-	facebook: "sprites/postcredits/facebook.png",
-	twitter: "sprites/postcredits/twitter.png",
+	facebook: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/postcredits/facebook.png",
+	twitter: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/postcredits/twitter.png",
 
-	end_button: "sprites/postcredits/end_button.json"
+	end_button: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/postcredits/end_button.json"
 
 });
 
