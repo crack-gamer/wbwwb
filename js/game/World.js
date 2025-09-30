@@ -1,6 +1,6 @@
 Game.addToManifest({
-	bg: "sprites/bg.png",
-	bg_dark: "sprites/bg_dark.png"
+	bg: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/bg.png",
+	bg_dark: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/bg_dark.png"
 });
 
 /**************************************

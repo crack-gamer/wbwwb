@@ -1,5 +1,5 @@
 Game.addToManifest({
-    laptop: "sprites/laptop.png"
+    laptop: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/laptop.png"
 });
 
 /*************

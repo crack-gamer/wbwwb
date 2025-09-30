@@ -1,5 +1,5 @@
 Game.addToManifest({
-	snow: "sprites/snow.png"
+	snow: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/snow.png"
 });
 
 /*************
