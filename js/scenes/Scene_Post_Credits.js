@@ -1,6 +1,6 @@
 Game.addToManifest({
-    bg_shade: "sprites/bg_shade.png",
-    bg_nighttime: "sounds/bg_nighttime.mp3"
+    bg_shade: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/bg_shade.png",
+    bg_nighttime: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sounds/bg_nighttime.mp3"
 });
 
 /************************************
