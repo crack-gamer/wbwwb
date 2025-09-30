@@ -7,11 +7,11 @@ The graphics & controls for this sucka
 
 Game.addToManifest({
 
-	cam_frame: "sprites/cam/cam.png",
-	cam_flash: "sprites/cam/cam-flash.png",
-	cam_instructions: "sprites/cam/cam-instructions.png",
+	cam_frame: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/cam/cam.png",
+	cam_flash: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/cam/cam-flash.png",
+	cam_instructions: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/cam/cam-instructions.png",
 
-	cam_snap: "sounds/cam_snap.mp3"
+	cam_snap: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sounds/cam_snap.mp3"
 
 });
 
