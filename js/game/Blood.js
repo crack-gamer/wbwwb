@@ -1,5 +1,5 @@
 Game.addToManifest({
-    blood: "sprites/peeps/blood.json"
+    blood: "https://cdn.jsdelivr.net/gh/crack-gamer/wbwwb/sprites/peeps/blood.json"
 });
 
 /**************************************
